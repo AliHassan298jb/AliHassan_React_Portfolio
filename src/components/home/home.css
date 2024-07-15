@@ -1,0 +1,45 @@
+.home {
+    padding: 50px 0;
+  }
+  
+  .exleft {
+    text-align: left;
+    background-color:rgb(2, 12, 32);
+    padding: 30px;
+    /* margin: 5%; */
+    border-radius: 60px;
+    border: 2px solid yellow;
+    text-align: center;
+  }
+  
+  .right .img {
+    max-width: 80%;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+    margin: 0 auto;
+    height: 350px;
+    width: 350px;
+   
+    border-radius: 100%;
+  }
+  .img-fluid{
+    border: 2px solid yellow;
+
+  }
+  
+  @media (min-width: 992px) {
+    .home {
+      padding: 100px 0;
+    }
+    
+    .left {
+      text-align: left;
+      padding-right: 50px;
+    }
+    
+    .right .img {
+      max-width: 100%;
+    }
+  }
+  

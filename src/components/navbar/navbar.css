@@ -1,0 +1,18 @@
+/* Start Navbar */
+a{
+    text-decoration: none;
+    color: white;
+}
+.nav_bar{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    gap: 1.3rem;
+  }
+  .nav_bar .nav_items{
+    padding: 15px;
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+ 
+  /* End Navbar */

@@ -1,0 +1,14 @@
+[
+    {
+        "id" : 1,
+        "role" : "MERN Stack Trainee",
+        "organization":"SeeBiz PVT LTD",
+        "startDate":"Jan,2024",
+        "endDate":"Present",
+        "location": "Gulberg 5 Main Jail Road Lahore",
+        "imageLogo": "../experience/img/seebiz.png"
+
+        
+    
+    }
+]

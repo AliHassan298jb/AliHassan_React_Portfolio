@@ -1,0 +1,35 @@
+.contact-icons{
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.contact{
+    margin-bottom: 4%;
+}
+.contact-icons .items{
+    background-color: black;
+    margin: 3%;
+    width: 70px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100% ;
+    border: 1px solid yellow;
+}
+.contact-icons .items:hover{
+    background-color: rgb(87, 36, 133);
+}
+.contact-icons .icons{
+    font-size: 2rem;
+}
+.contact-icons .item{
+    background-color: black;
+    height: 70px;
+    padding: 20px;
+    /* margin-bottom: 20px; */
+    border-radius: 20px;
+    border: 1px solid yellow;
+
+}
