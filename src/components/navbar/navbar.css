@@ -14,5 +14,8 @@ a{
     font-size: 1.2rem;
     font-weight: bold;
   }
+.nav-link:hover{
+    border-bottom: 2px solid yellow;
+  }
  
   /* End Navbar */
